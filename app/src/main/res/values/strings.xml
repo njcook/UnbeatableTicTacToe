@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unbeatable Tic-Tac-Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="human_first">Player start</string>
+    <string name="human_restart">Player restart</string>
+    <string name="play">Play!</string>
+    <string name="computer_first">Computer start</string>
+    <string name="computer_restart">Computer restart</string>
+    <string name="info">info</string>
+    <string name="who_first">Who first?</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="lose">You lost!</string>
+    <string name="win">You won!</string>
+</resources>
